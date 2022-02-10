@@ -7,4 +7,4 @@ A simple browser.<br>
 portable version is a version which can be used on a pendrive without installing just download the file move it to your pendrive and your done ! 
 # Fork
 If you fork this project then please mention my repo in your credits section
-<span style="color: green"> Some green text </span>
+
