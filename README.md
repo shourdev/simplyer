@@ -1,5 +1,5 @@
 ## simplyer
-A simple browser.Open source and simple<br> 
+A simple browser.Open source and simple.This browser is made using python<br> 
 ## download version 1.0.0 
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstaller/simplyer.exe">Download Normal Installer</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/releases/download/Portable/simplyer.exe">Download Portable  </a>
