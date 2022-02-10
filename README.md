@@ -63,7 +63,7 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('yourappname.com')
+QApplication.setApplicationName('yourappname')
 window = MainWindow()
 app.exec_()
 ```
