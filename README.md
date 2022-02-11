@@ -1,5 +1,5 @@
 ## Simplyer
-A simple browser.Open source and simple.This browser is made using python<br> 
+A simple browser.Open source and simple.This browser is made using python.It is very easy to make your own version ! Please read the whole markdown.<br> 
 ## Download version 1.0.0 
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstaller/simplyer.exe">Download Normal Installer</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/releases/download/Portable/simplyer.exe">Download Portable  </a>
@@ -49,4 +49,5 @@ This is not a virus it is marked as virus because it is made in python and pytho
 ## Support 
 For support please join my <a href="https://discord.gg/4Ekyvrkyxn">Discord Server</a>
 ## Copyright 
-© 2022 all rights reserved - Shourjjo Majumder.
+© 2022 all rights reserved - Shourjjo Majumder. <br>
+Please mention my repo if you copy it
