@@ -67,9 +67,9 @@ Edit the navbar
 
         self.url_bar = QLineEdit()
         self.url_bar.returnPressed.connect(self.navigate_to_url)
-        navbar.addWidget(self.url_bar)
+        navbar.addWidget(self.url_bar) 
 
-        self.browser.urlChanged.connect(self.update_url)
+        self.browser.urlChanged.connect(self.update_url) # updates the url
 ```
 ## If you copy
 If you fork this project then please mention my repo in your credits section
