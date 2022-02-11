@@ -8,6 +8,7 @@ portable version is a version which can be used on a pendrive without installing
 ## Copy
 Fork the repo by clicking on the fork button
 ## All the packages needed
+Install these packages to modify and make your own version of simplyer <br>
 PyQtWebEngine
 ``` sh
 pip install PyQtWebEngine
