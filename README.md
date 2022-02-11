@@ -41,7 +41,7 @@ QApplication.setApplicationName('yourappname')
 window = MainWindow()
 app.exec_()
 ```
-Edit the nav bar
+Edit the navbar
 ```py
  # navbar
         navbar = QToolBar()
@@ -50,19 +50,19 @@ Edit the nav bar
       
 
         back_btn = QAction('Back', self)
-        back_btn.triggered.connect(self.browser.back)
+        back_btn.triggered.connect(self.browser.back) # gets back to the previous url
         navbar.addAction(back_btn)
 
         forward_btn = QAction('Forward', self)
-        forward_btn.triggered.connect(self.browser.forward)
+        forward_btn.triggered.connect(self.browser.forward) # moves to the next url
         navbar.addAction(forward_btn)
 
         reload_btn = QAction('Reload', self)
-        reload_btn.triggered.connect(self.browser.reload)
+        reload_btn.triggered.connect(self.browser.reload) # realods the current page
         navbar.addAction(reload_btn)
 
         home_btn = QAction('Home', self)
-        home_btn.triggered.connect(self.navigate_home)
+        home_btn.triggered.connect(self.navigate_home) # goes to the home 
         navbar.addAction(home_btn)
 
         self.url_bar = QLineEdit()
