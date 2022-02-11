@@ -41,7 +41,36 @@ QApplication.setApplicationName('yourappname')
 window = MainWindow()
 app.exec_()
 ```
+Edit the nav bar
+```py
+ # navbar
+        navbar = QToolBar()
+        self.addToolBar(navbar)
 
+      
+
+        back_btn = QAction('Back', self)
+        back_btn.triggered.connect(self.browser.back)
+        navbar.addAction(back_btn)
+
+        forward_btn = QAction('Forward', self)
+        forward_btn.triggered.connect(self.browser.forward)
+        navbar.addAction(forward_btn)
+
+        reload_btn = QAction('Reload', self)
+        reload_btn.triggered.connect(self.browser.reload)
+        navbar.addAction(reload_btn)
+
+        home_btn = QAction('Home', self)
+        home_btn.triggered.connect(self.navigate_home)
+        navbar.addAction(home_btn)
+
+        self.url_bar = QLineEdit()
+        self.url_bar.returnPressed.connect(self.navigate_to_url)
+        navbar.addWidget(self.url_bar)
+
+        self.browser.urlChanged.connect(self.update_url)
+```
 ## If you copy
 If you fork this project then please mention my repo in your credits section
 ## Virus ?

@@ -16,6 +16,8 @@ class MainWindow(QMainWindow):
         navbar = QToolBar()
         self.addToolBar(navbar)
 
+      
+
         back_btn = QAction('Back', self)
         back_btn.triggered.connect(self.browser.back)
         navbar.addAction(back_btn)
@@ -51,6 +53,7 @@ class MainWindow(QMainWindow):
 
 app = QApplication(sys.argv)
 QApplication.setApplicationName('simplyer')
+
 
 window = MainWindow()
 app.exec_()
