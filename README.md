@@ -7,7 +7,7 @@ A simple browser.Open source and simple.This browser is made using python<br>
 portable version is a version which can be used on a pendrive without installing just download the file move it to your pendrive and your done ! 
 ## Installation
 ```sh
-python3 -m pip install git+https://github.com/shourgamer2/simplyer.git
+git@github.com:shourgamer2/simplyer.git
 ```
 ## Modify
 ```py
