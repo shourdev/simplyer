@@ -1,4 +1,4 @@
-## simplyer
+## Simplyer
 A simple browser.Open source and simple.This browser is made using python<br> 
 ## Download version 1.0.0 
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstaller/simplyer.exe">Download Normal Installer</a> <br>
@@ -7,6 +7,15 @@ A simple browser.Open source and simple.This browser is made using python<br>
 portable version is a version which can be used on a pendrive without installing just download the file move it to your pendrive and your done ! 
 ## Copy
 Fork the repo by clicking on the fork button
+## All the packages needed
+PyQtWebEngine
+``` sh
+pip install PyQtWebEngine
+```
+PyQt5
+``` sh
+pip install PyQt5
+```
 ## Modify
 Change the deafult search
 ```py
@@ -31,6 +40,7 @@ QApplication.setApplicationName('yourappname')
 window = MainWindow()
 app.exec_()
 ```
+
 ## If you copy
 If you fork this project then please mention my repo in your credits section
 ## Virus ?
