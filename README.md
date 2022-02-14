@@ -82,4 +82,5 @@ This is not a virus it is marked as virus because it is made in python and pytho
 For support please join my <a href="https://discord.gg/4Ekyvrkyxn">Discord Server</a>
 ## Copyright 
 © 2022 all rights reserved - Shourjjo Majumder. <br>
-Please mention my repo if you copy it
+Please mention my repo if you copy it. <br>
+Read the whole markdown if you want to make your own version.
