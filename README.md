@@ -74,6 +74,18 @@ Edit the navbar
 
         self.browser.urlChanged.connect(self.update_url) # updates the url
 ```
+Edit and add more pages
+```py 
+def navigate_home(self):
+        self.browser.setUrl(QUrl('YourHome.com')) #The home
+
+    def navigate_to_url(self):
+        url = self.url_bar.text()
+        self.browser.setUrl(QUrl(url)) #Used To Update The Url 
+
+    def update_url(self, q):
+        self.url_bar.setText(q.toString()) #Used To Update The Url 
+   ```
 ## If you copy
 If you fork this project then please mention my repo in your credits section
 ## Virus ?
