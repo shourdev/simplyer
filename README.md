@@ -88,7 +88,10 @@ def navigate_home(self):
    ```
 ## If you copy
 If you fork this project then please mention my repo in your credits section <br>
-Read the whole markdown if you want to make your own version.
+Read the whole markdown if you want to make your own version. <br>
+Also check out 
+<a href="https://github.com/shourgamer2/simplyer#all-the-packages-needed">All the packages needed</a> and 
+<a href="https://github.com/shourgamer2/simplyer#modify">Modify</a>
 ## Virus ?
 This is not a virus it is marked as virus because it is made in python and python is not made for pc apps so don't worry it is 100% safe
 ## Support 
