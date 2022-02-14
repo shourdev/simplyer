@@ -87,7 +87,8 @@ def navigate_home(self):
         self.url_bar.setText(q.toString()) #Used To Update The Url 
    ```
 ## If you copy
-If you fork this project then please mention my repo in your credits section
+If you fork this project then please mention my repo in your credits section <br>
+Read the whole markdown if you want to make your own version.
 ## Virus ?
 This is not a virus it is marked as virus because it is made in python and python is not made for pc apps so don't worry it is 100% safe
 ## Support 
@@ -95,4 +96,4 @@ For support please join my <a href="https://discord.gg/4Ekyvrkyxn">Discord Serve
 ## Copyright 
 © 2022 all rights reserved - Shourjjo Majumder. <br>
 Please mention my repo if you copy it. <br>
-Read the whole markdown if you want to make your own version.
+
