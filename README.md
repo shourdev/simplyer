@@ -1,6 +1,11 @@
 ## Simplyer
 A simple browser.Open source and simple.This browser is made using python.It is very easy to make your own version ! Please read the whole markdown.<br>
-Visit our <a href="https://github.com/shourgamer2/simplyer">Github</a> 
+Visit our <a href="https://github.com/shourgamer2/simplyer">Github</a> <br>
+<a href="https://github.com/shourgamer2/simplyer/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/shourgamer2/simplyer"></a> 
+<a href="https://github.com/shourgamer2/simplyer/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/shourgamer2/simplyer"></a>
+<a href="https://github.com/shourgamer2/simplyer/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/shourgamer2/simplyer"></a>
+<a href="https://github.com/shourgamer2/simplyer/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/shourgamer2/simplyer"></a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fshourgamer2%2Fsimplyer"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshourgamer2"></a>
 ## Download version 1.1.0
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstallerv1.1.0/Simplyer_Setup_Version_1.1.0.exe">Download Normal Installer</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/releases/download/porable1.1.0/simplyer.exe">Download Portable  </a>
