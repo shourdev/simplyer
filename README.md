@@ -7,9 +7,12 @@ Visit our <a href="https://github.com/shourgamer2/simplyer">Github</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/shourgamer2/simplyer"></a>
 
 ## Download version 1.1.0
+
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstallerv1.1.0/Simplyer_Setup_Version_1.1.0.exe">Download Normal Installer</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/releases/download/porable1.1.0/simplyer.exe">Download Portable  </a>
-## Download version 1.0.0 
+
+## Download version 1.0.0  
+
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstaller/simplyer.exe">Download Normal Installer</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/releases/download/Portable/simplyer.exe">Download Portable  </a>
 ## portable
