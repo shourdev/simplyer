@@ -1,5 +1,6 @@
 ## Simplyer
-A simple browser.Open source and simple.This browser is made using python.It is very easy to make your own version ! Please read the whole markdown.<br> 
+A simple browser.Open source and simple.This browser is made using python.It is very easy to make your own version ! Please read the whole markdown.<br>
+Visit our <a href="https://github.com/shourgamer2/simplyer">Github</a> 
 ## Download version 1.1.0
 <a href="https://github.com/shourgamer2/simplyer/releases/download/normalinstallerv1.1.0/Simplyer_Setup_Version_1.1.0.exe">Download Normal Installer</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/releases/download/porable1.1.0/simplyer.exe">Download Portable  </a>
