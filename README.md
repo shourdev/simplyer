@@ -9,7 +9,9 @@ A simple browser.Open source and simple.This browser is made using python.It is 
 ## portable
 portable version is a version which can be used on a pendrive without installing just download the file move it to your pendrive and your done ! 
 ## Copy
-Fork the repo by clicking on the fork button
+Fork the repo by clicking on the fork button <br>
+Check out <a href="https://github.com/shourgamer2/simplyer#copyright">Copyright</a> and
+<a href="https://github.com/shourgamer2/simplyer/blob/main/README.md#if-you-copy">If you copy</a>
 ## All the packages needed
 Install these packages to modify and make your own version of simplyer <br>
 PyQtWebEngine
