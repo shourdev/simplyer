@@ -26,6 +26,10 @@ Check out <a href="https://github.com/shourgamer2/simplyer#copyright">Copyright<
 <a href="https://github.com/shourgamer2/simplyer/blob/main/README.md#if-you-copy">If you copy</a>
 ## All the packages needed
 Install these packages to modify and make your own version of simplyer <br>
+Pyinstaller
+``` sh
+pip install pyinstaller
+```
 PyQtWebEngine
 ``` sh
 pip install PyQtWebEngine
