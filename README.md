@@ -24,7 +24,7 @@ git clone https://www.github.com/shourgamer2/simplyer.git
 ```
 Set it up 
 ``` sh 
-cd Web-Broswer
+cd simplyer
 ```
 ``` sh 
 python -m pip install -r requirements.txt
