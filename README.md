@@ -20,8 +20,19 @@ portable version is a version which can be used on a pendrive without installing
 ## Copy
 Fork the repo by clicking on the fork button or using git bash.<br>
 ``` sh
-git clone https://www.github.com/shourgamer2/simplyer
+git clone https://www.github.com/shourgamer2/simplyer.git
 ```
+Set it up 
+``` sh 
+cd Web-Broswer
+```
+``` sh 
+python -m pip install -r requirements.txt
+```
+``` sh 
+python simplyer.py
+```
+
 Check out <a href="https://github.com/shourgamer2/simplyer#copyright">Copyright</a> and
 <a href="https://github.com/shourgamer2/simplyer/blob/main/README.md#if-you-copy">If you copy</a>
 ## All the packages needed
