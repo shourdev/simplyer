@@ -49,6 +49,14 @@ PyQt5
 ``` sh
 pip install PyQt5
 ```
+Or if you want to install all of these without typing them then clone this repo using git and type
+``` sh 
+cd simplyer
+```
+Then type 
+``` sh 
+python -m pip install -r requirements.txt
+```
 ## Modify
 Change the deafult search
 ```py
