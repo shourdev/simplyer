@@ -33,6 +33,9 @@ class MainWindow(QMainWindow):
         home_btn = QAction('Home', self)
         home_btn.triggered.connect(self.navigate_home)
         navbar.addAction(home_btn)
+        
+
+            
 
         self.url_bar = QLineEdit()
         self.url_bar.returnPressed.connect(self.navigate_to_url)
@@ -42,6 +45,8 @@ class MainWindow(QMainWindow):
 
     def navigate_home(self):
         self.browser.setUrl(QUrl('https://github.com/shourgamer2/simplyer'))
+
+ 
 
     def navigate_to_url(self):
         url = self.url_bar.text()
