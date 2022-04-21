@@ -5,6 +5,10 @@ Visit our <a href="https://github.com/shourgamer2/simplyer">Github</a> <br>
 <a href="https://github.com/shourgamer2/simplyer/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/shourgamer2/simplyer"></a>
 <a href="https://github.com/shourgamer2/simplyer/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/shourgamer2/simplyer"></a>
 <a href="https://github.com/shourgamer2/simplyer/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/shourgamer2/simplyer"></a>
+## Download version 1.1.1
+[Normal Installer](https://github.com/shourgamer2/simplyer/releases/download/ver1.1.1/simplyer.exe) <br>
+Update <br>
+We did it bois, we did it we now have a autoupdater which informs you when there is a new update all you have to do is uninstall the current version and the app will  download the latest setup and run it so u just have to go through the setup
 
 ## Download version 1.1.0
 
@@ -123,6 +127,26 @@ def navigate_home(self):
     def update_url(self, q):
         self.url_bar.setText(q.toString()) #Used To Update The Url 
    ```
+AutoUpdater
+```python
+latestversion = get('https://shourgamer2.tk/simplyer/version.txt').text
+download = "https://github.com/shourgamer2/simplyer/releases/download/updater/update.exe"
+version = "1.1.1"
+
+
+filename = 'update.exe'  
+
+
+if (latestversion.strip() == version):
+    print("You are on the latest version")
+  
+    
+else:
+    messagebox.showinfo("Version outdated", "This version is outdated ! We have downloaded the latest setup for you all you have to do is uninstall this version and install the latest one which we downloaded and opened for you")
+    urllib.request.urlretrieve(download, filename) 
+    subprocess.call('update.exe')
+
+```
 ## If you copy
 If you fork this project then please mention my repo in your credits section <br>
 Read the whole markdown if you want to make your own version. <br>
