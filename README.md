@@ -1,5 +1,5 @@
 ### INFORMATION
-I do not update this anymore ! This is just a hobby project of mine but I do not update it.
+I DO NOT UPDATE THIS ANYMORE ! THIS IS JUST A HOBBY PROJECT OF MINE BUT I DO NOT UPDATE IT.
 ## Simplyer
 A simple browser.Open source and simple.This browser is made using python.It is very easy to make your own version ! Please read the whole markdown.<br>
 Visit our <a href="https://github.com/shourgamer2/simplyer">Github</a> <br>
