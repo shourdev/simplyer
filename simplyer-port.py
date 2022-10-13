@@ -10,23 +10,12 @@ import urllib.request
 import subprocess
 
 
-latestversion = get('https://shourgamer2.tk/simplyer/version.txt').text
-download = "https://github.com/shourgamer2/simplyer/releases/download/updater/update.exe"
-version = "1.1.1"
-
-
-filename = 'update.exe'  
 
 
 if (latestversion.strip() == version):
     print("You are on the latest version")
   
-    
-else:
-    messagebox.showinfo("Version outdated", "This version is outdated ! Please visithttps://github.com/shourgamer2/simplyer or https://sourceforge.net/projects/simplyerbrowser/")
-   
-
-    
+ 
   
          
       
